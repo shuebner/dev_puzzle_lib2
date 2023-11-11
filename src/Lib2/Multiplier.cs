@@ -2,6 +2,6 @@
 {
     public class Multiplier
     {
-        public int Multiply(int first, int second) => first * 1 * second;
+        public int Multiply(int first, int second) => first * second;
     }
 }
